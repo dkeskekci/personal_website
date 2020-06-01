@@ -43,8 +43,8 @@ _2x = "img/general/design-and-code-radity@2x.png"
 alt = "Design & Code - Radity"
 x = "img/general/design-and-code-radity.png"
 [params.logo]
-text1 = "Andreas"
-text2 = "Ellure"
+text1 = "Damla"
+text2 = "Keşkekci"
 [[params.plugins.css]]
 URL = "css/main.css"
 [[params.plugins.css]]
