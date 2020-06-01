@@ -18,13 +18,17 @@ URL = "#about"
 name = "About"
 weight = 2
 [[menu.header]]
-URL = "#portfolio"
-name = "Portfolio"
+URL = "#cv"
+name = "Curriculum Vitae"
 weight = 3
+[[menu.header]]
+URL = "#projects"
+name = "Projects"
+weight = "4"
 [[menu.header]]
 URL = "#contact"
 name = "Contact"
-weight = 4
+weight = "5"
 [params]
 googleTagManagerID = "GTM-000000"
 sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
