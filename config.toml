@@ -37,11 +37,11 @@ weight = "5"
 googleTagManagerID = "GTM-000000"
 sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 [params.footer]
-copyright = "© Raditian. All rights reserved."
+copyright = "© Damla Keşkekci. All rights reserved."
 [params.footer.radity_logo]
-_2x = "img/general/design-and-code-radity@2x.png"
-alt = "Design & Code - Radity"
-x = "img/general/design-and-code-radity.png"
+_2x = ""
+alt = ""
+x = ""
 [params.logo]
 text1 = "Damla"
 text2 = "Keşkekci"
