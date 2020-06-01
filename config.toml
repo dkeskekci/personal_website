@@ -37,7 +37,7 @@ weight = "5"
 googleTagManagerID = "GTM-000000"
 sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 [params.footer]
-copyright = "© Damla Keşkekci. All rights reserved."
+copyright = "© 2020 by Damla Keşkekci"
 [params.footer.radity_logo]
 _2x = ""
 alt = ""
