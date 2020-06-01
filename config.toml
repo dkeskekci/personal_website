@@ -43,8 +43,8 @@ _2x = ""
 alt = ""
 x = ""
 [params.logo]
-text1 = "Damla"
-text2 = "Keşkekci"
+text1 = ""
+text2 = ""
 [[params.plugins.css]]
 URL = "css/main.css"
 [[params.plugins.css]]
