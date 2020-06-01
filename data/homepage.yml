@@ -1,7 +1,7 @@
 ---
 homepage:
   head:
-    title: Home | Raditian
+    title: Home
 showcase:
   enable: true
   title: Hello, I’m Andreas.
@@ -156,7 +156,7 @@ client_and_work:
       _2x: img/works/robo-advisor@2x.jpg
     is_even: true
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   items:
   - name: Daniel Jordan
@@ -209,7 +209,7 @@ contact:
     icon: icon-mail-fill
     btnText: Send Message
 newsletter:
-  enable: true
+  enable: false
   title: Newsletter subscription
   success_message: Successfully subscribed
   error_message: Error while subscribing.
