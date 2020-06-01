@@ -3,7 +3,7 @@ homepage:
   head:
     title: Home
 showcase:
-  enable: false
+  enable: true
   title: Hello, I’m Andreas.
   subtitle: Front-End Developer
   description: I work at <a target='_blank' href='https://radity.com/'>Radity</a>,
@@ -69,7 +69,7 @@ education:
     year: 2009-2012
     degree: High School Diploma, Sciences, Math, Computer & Business Studies
 experience:
-  enable: true
+  enable: false
   title: Experience
   description: Over 15+ years of experience working with companies from all over the
     world. I design & develop digital products to help businesses and improve people's
@@ -94,7 +94,7 @@ experience:
     duration: Jun 2009 - Mar 2010
 client_and_work:
   title: Clients & Works
-  enable: true
+  enable: false
   clients:
   - logo:
       x: img/clients/asgardia.png
