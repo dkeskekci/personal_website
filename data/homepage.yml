@@ -3,7 +3,7 @@ homepage:
   head:
     title: Home
 showcase:
-  enable: true
+  enable: false
   title: Hello, I’m Andreas.
   subtitle: Front-End Developer
   description: I work at <a target='_blank' href='https://radity.com/'>Radity</a>,
